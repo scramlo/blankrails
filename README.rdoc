@@ -1,11 +1,9 @@
 == README
 
-A web app to upload and manage sermons, speakers, and topics for your church.
-Eventually the idea is that you can copy some HTML code that will create a webplayer you can
-link to.
+Just a basic setup I like to start with when creating a
+new RoR App.
 
-Things you may want to cover:
-
-* Production uses Postgres for use with Heroku
-
-That's all I can think of.
+* Bootstrap
+* Bootswatch
+* NavLynx
+* Devise
